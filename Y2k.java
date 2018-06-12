@@ -19,6 +19,7 @@ public class Y2k {
 
         // Should have set year to 1998, not just 98...
         System.out.print(2000 - year + age);
+ System.out.print(2000 - year + age);
         System.out.println(" years old in the year 2000.");
     }
 }
